@@ -1,0 +1,16 @@
+{
+  "name": "polo-website",
+  "version": "1.0.0",
+  "description": "desc...",
+  "main": "app.js",
+  "dependencies": {
+    "gulp-notify": "^3.0.0",
+    "gulp-sass": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
